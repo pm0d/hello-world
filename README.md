@@ -1,2 +1,3 @@
 # hello-world
-Just another test repository
+
+This is just another github repository made for the purpose of following the github tutorial :)
